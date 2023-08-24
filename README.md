@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/sarvesh259/sarvesh259/blob/main/github-header-image.png?raw=true)]
+![MasterHead](https://github.com/sarvesh259/sarvesh259/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sarvesh Sugandh Barnwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/sarvesh259/sarvesh259/blob/main/gif.gif?raw=true">
